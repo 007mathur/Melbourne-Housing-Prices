@@ -5,7 +5,7 @@ I've done the exploratory data analysis of the dataset a clear understanding of 
 This repository has 3 files:<br>
 1. [Dataset](https://github.com/dochimekashiariri/Melbourne-Housing-Prices/blob/master/melb_data.csv)
 2. [EDA](https://github.com/dochimekashiariri/Melbourne-Housing-Prices/blob/master/EDA.ipynb)
-3. [Regression Model](https://github.com/dochimekashiariri/Melbourne-Housing-Prices/blob/master/Model.ipynb)
+3. [Model](https://github.com/dochimekashiariri/Melbourne-Housing-Prices/blob/master/Model.ipynb)
 <br>
 <br>
 This data was trained on nine features - <b>Rooms, Type, Distance, Bathrooms, Car, Landsize, Lattiude, Longtitude, and Propertycount</b> by models, <b>Polynomial Regression</b>, <b>Lasso Regression</b>, and <b>Decision Tree Regressor</b>. The R<sup>2</sup> Score of the models are mentioned in the table below.<br><br>
