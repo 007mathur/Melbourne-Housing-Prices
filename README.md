@@ -8,12 +8,12 @@ This repository has 3 files:<br>
 3. [Regression Model](https://github.com/dochimekashiariri/Melbourne-Housing-Prices/blob/master/Model.ipynb)
 <br>
 <br>
-This data was trained on nine features - ** Rooms, Type, Distance, Bathrooms, Car, Landsize, Lattiude, Longtitude, and Propertycount** by models, **Polynomial Regression**, **Lasso Regression**, and **Decision Tree Regressor**. The R<sup>2</sup> Score of the models are mentioned in the table below.<br><br>
+This data was trained on nine features - <b>Rooms, Type, Distance, Bathrooms, Car, Landsize, Lattiude, Longtitude, and Propertycount</b> by models, <b>Polynomial Regression</b>, <b>Lasso Regression</b>, and <b>Decision Tree Regressor</b>. The R<sup>2</sup> Score of the models are mentioned in the table below.<br><br>
 
 1. Polynomial Regression -  **0.999999999999997**    
 2. Lasso Reggression - **0.9999916206262129** 
 3. Decision Tree Regressor - **0.9999942091830432**   
 <br>
 
-From the above results it is pretty evident that in this case **Polynomial Regression** works better than **Lasso Regression** which works better than **Decision Tree Regressor** .<br> 
+From the above results it is pretty evident that in this case <b>Polynomial Regression works better than Lasso Regression which works better than Decision Tree Regressor</b> .<br> 
 
