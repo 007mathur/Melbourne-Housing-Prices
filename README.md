@@ -14,4 +14,4 @@ This data was trained on nine features - ** Rooms, Type, Distance, Bathrooms, Ca
 2. Lasso Reggression - **0.9999916206262129** 
 3. Decision Tree Regressor - **0.9999942091830432**   
 <br>
-From the above results it is pretty evident that in this case **Polynomial Regression works better than Lasso Regression which works better tha Decision Tree Regressor** .<br> 
+From the above results it is pretty evident that in this case **Polynomial Regression works better than Lasso Regression which works better than Decision Tree Regressor** .<br> 
